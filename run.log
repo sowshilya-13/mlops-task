@@ -1,0 +1,13 @@
+2026-04-22 12:10:52,807 - INFO - Job started
+2026-04-22 12:10:52,808 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 12:10:52,808 - ERROR - No columns to parse from file
+2026-04-22 12:12:17,355 - INFO - Job started
+2026-04-22 12:12:17,356 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 12:12:17,356 - INFO - Rows loaded: 7
+2026-04-22 12:12:17,358 - INFO - Metrics: {'version': 'v1', 'rows_processed': 3, 'metric': 'signal_rate', 'value': np.float64(1.0), 'latency_ms': 2, 'seed': 42, 'status': 'success'}
+2026-04-22 12:12:17,358 - INFO - Job completed successfully
+2026-04-22 12:16:24,789 - INFO - Job started
+2026-04-22 12:16:24,790 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 12:16:24,790 - INFO - Rows loaded: 7
+2026-04-22 12:16:24,791 - INFO - Metrics: {'version': 'v1', 'rows_processed': 3, 'metric': 'signal_rate', 'value': np.float64(1.0), 'latency_ms': 1, 'seed': 42, 'status': 'success'}
+2026-04-22 12:16:24,791 - INFO - Job completed successfully
